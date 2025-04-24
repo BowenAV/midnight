@@ -1,5 +1,6 @@
 ---
 layout: default
+show_downloads: False
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
